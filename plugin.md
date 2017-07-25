@@ -23,7 +23,9 @@
 
 ## Mail
 
-##
+## oh-my-zsh
+
+## vim
 
 
 
