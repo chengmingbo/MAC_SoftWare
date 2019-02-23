@@ -226,3 +226,4 @@
 | 224  | 爱奇艺.app                                  | 爱奇艺                                     | 客户端                     |
 | 225  | 人人影视PRO.app                              | 人人影视PRO                                 | 客户端                     |
 | 226  | 讯飞语音输入.app                               | 讯飞语音输入                                  | 只有语音输入                  |
+| 227  | paragon NTFS                               | Paragon NTFS                                  | 支持NTFS                  |
